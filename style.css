@@ -1,0 +1,50 @@
+#navbar-upper{
+    background-color: #53859e;
+}
+
+#navbar-lower{
+    background-color: #fff;
+}
+
+#slider{
+    background-image: url("./images/slide-1.jpg");
+    min-height:100%;
+    background-size:cover;
+    width:100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#slider-container{
+    padding-top:5%;
+    padding-bottom:5%;
+}
+
+.underline{
+    text-decoration: underline;
+    text-underline-position:under;
+    text-decoration-color: #f6c123;
+    text-decoration-thickness: 7px;
+    padding-bottom:7px;
+}
+
+#ankle{
+    width:100%;
+    height:90%;
+}
+
+#contact-button{
+    background-color: #f6c123;
+}
+
+footer {
+    background-color: #53859e;
+}
+
+#footer-left, #footer-right {
+    list-style: none;
+}
+
+#footer-left a, #footer-right a{
+    color: #fff;
+}
