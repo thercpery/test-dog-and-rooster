@@ -1,5 +1,24 @@
+*{
+    scroll-behavior: smooth;
+}
 #navbar-upper{
     background-color: #53859e;
+}
+
+.upper-nav-item-blue{
+    background-color: #43667a;
+}
+
+.upper-nav-item-blue a{
+    color: #fff !important;
+}
+
+.upper-nav-item-yellow{
+    background-color: #f6c123;
+}
+
+.upper-nav-item-yellow a{
+    color: #000 !important;
 }
 
 #navbar-lower{
@@ -33,12 +52,37 @@
     height:90%;
 }
 
+.bullet{
+    width: 20%;
+}
+
+#testimonials-img img{
+    width:100%;
+    height:100%;
+}
+#testimonials-img{
+    background: #fff;
+}
+
+#testimonials-column{
+    background: #fff;
+}
+
+
 #contact-button{
     background-color: #f6c123;
 }
 
 footer {
     background-color: #53859e;
+}
+
+#form-col{
+    background-color: #43667a;
+}
+
+#btn-submit{
+    background-color: #f6c123;
 }
 
 #footer-left, #footer-right {
