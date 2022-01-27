@@ -52,9 +52,18 @@
     height:90%;
 }
 
-.bullet{
-    width: 20%;
+
+/* .product-bullet, .pain-bullet{
+    width: 10%;
+    position:absolute;
+    display:block
 }
+
+#product-bullet-1{
+    top: 130vh;
+    left: 25vw;
+    right: 250%;
+} */
 
 #testimonials-img img{
     width:100%;
